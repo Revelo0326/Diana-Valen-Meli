@@ -1,0 +1,20 @@
+Nombre: juan
+Nacionalidad: colombia
+Edad: 23
+
+Nombre: mario
+Nacionalidad: peru
+Edad: 20
+
+Nombre: francisco
+Nacionalidad: venezolano
+Edad: 33
+
+Nombre: maria
+Nacionalidad: colombia
+Edad: 25
+
+Nombre: patricia
+Nacionalidad: poloche
+Edad: 20
+
